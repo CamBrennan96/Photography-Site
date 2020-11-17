@@ -1,0 +1,20 @@
+img {
+    max-width: 75%;
+    padding: 1rem;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+.background {
+    font-size: 2rem;
+    color: white;
+    max-width: 75%;
+    text-align: center;
+    background-image: url('Lens.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+}
